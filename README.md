@@ -22,7 +22,6 @@ Created dashboard to visualize the data in Power BI.
 - Regular Air is the only shipping mode that 90% of the people use.
 - Highest number of quantities are sold from Office Supply.
 - West region is the only place where delivery truck dominated regular air 
-
-  ## Final Conclusion
-  To recover the loss in Technology from South Region the best stratergy is to combine the products category.
-  To boost up the sales of office supplies a good amount of discounts & offers should be applied than regular one.
+## Final Conclusion
+To recover the loss in Technology from South Region the best stratergy is to combine the products category.
+To boost up the sales of office supplies a good amount of discounts & offers should be applied than regular one.
